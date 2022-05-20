@@ -17,6 +17,7 @@ html {
     z-index: 200;
     background: black;
     color: white;
+    font-family: 'Jost', sans-serif;
 }
 
 .intro.display-none{
